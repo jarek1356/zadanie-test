@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1781389381.80832 "c:/zadanie test/zadanie.tex" "zadanie.pdf" "zadanie" 1781389382.68821 0
+["pdflatex"] 1781389712.09012 "c:/zadanie test/zadanie.tex" "zadanie.pdf" "zadanie" 1781389712.91329 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm0900.tfm" 993062120 3156 6d4f5755d77638125f6f89de4f3bb757 ""
@@ -71,12 +71,13 @@
   "C:/Users/Jarek/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1781387538 40136 aac86d9b971a152d3afa354a7c9dc6c4 ""
   "C:/Users/Jarek/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1781387541 23808 75aac4a510ac94789530730f95719c0b ""
   "C:/Users/Jarek/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1781387332 13323461 4dac22994724b47dccb6464ec2966ff0 ""
-  "c:/zadanie test/zadanie.tex" 1781389165 2449 bef27364ca9cb722bd51bdae893c0385 ""
+  "c:/zadanie test/zadanie.tex" 1781389710 2529 c79de39bd123d2e1764df68e0c4a07a2 ""
   "image/1.png" 1781389374 28756 538365cdacd19b07bd10214fad1afcbb ""
+  "image/2.png" 1781389679 137471 c1aadfe515b4ab75776767d813be746d ""
   "image/ModLogoPO.jpg" 1778926709 11071 45ba84d3c2c23a886c9f45901b681ced ""
   "image/ModLogoWE.jpg" 1778926709 6706 65f9f53e22e27048c8de005fa9e62192 ""
-  "zadanie.aux" 1781389382 389 2c315ab283b5b9e39e71efdca097249d "pdflatex"
-  "zadanie.tex" 1781389165 2449 bef27364ca9cb722bd51bdae893c0385 ""
+  "zadanie.aux" 1781389712 363 c2ec5e9eec27b9688c9b0bde7bfcea25 "pdflatex"
+  "zadanie.tex" 1781389710 2529 c79de39bd123d2e1764df68e0c4a07a2 ""
   (generated)
   "zadanie.aux"
   "zadanie.log"
